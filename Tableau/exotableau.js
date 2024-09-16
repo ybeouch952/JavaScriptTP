@@ -38,3 +38,17 @@ tab = [1,2,3,4,5,6,7,8,9,10]
 //     return tab3
 // }
 // console.log(fusiontableau(tab,tab2))
+
+// var marque = ["apple","samsung","dell","hp","lg","acer"]
+// console.log(marque)
+// var marqueprefere = prompt("Quel est votre marque préfèrer ?") 
+// if (marque.includes(marqueprefere)) {
+//     marque = marque.filter(function(marqueItem) {
+//         return marqueItem !== marqueprefere;
+//     });
+//     console.log("ok"); 
+// } else {
+//     console.log("indisponible");
+// }
+// console.log("Liste des marques disponibles après mise à jour :");
+// console.log(marque);
