@@ -16,6 +16,9 @@
 //     liste.appendChild(newElement);
 // });
 
-let liste = document.getElementById('maListe')
-let items = liste.getElementsByTagName('li')
-liste.removeChild(items[1])
+// let liste = document.getElementById('maListe')
+// let items = liste.getElementsByTagName('li')
+// liste.removeChild(items[1])
+
+// let bouton = document.getElementById("monBouton");
+// bouton.style.backgroundColor = "blue";  
